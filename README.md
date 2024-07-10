@@ -16,6 +16,7 @@ This project aims to develop a solution for analyzing sustainable and non-sustai
 **Android Studio:** Development environment for building the mobile application using Kotlin.
 
 **AWS (Amazon Web Services):**
+
   **Amazon S3:** Secure cloud storage for receipt images.
   
   **Amazon DynamoDB:** NoSQL database for storing user data.
