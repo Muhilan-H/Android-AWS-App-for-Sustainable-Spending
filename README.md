@@ -6,6 +6,7 @@ This project aims to develop a solution for analyzing sustainable and non-sustai
 
 # Features
 Receipt Scanning: Utilize the mobile application to scan physical receipts and convert them into digital format.
+
 Sustainable Spending Analysis: Analyze receipt data to categorize purchases as sustainable or non-sustainable using external APIs.
 User Authentication: Ensure secure access to the application with user authentication mechanisms.
 Cloud Storage: Utilize AWS services like S3 for storing receipt images securely.
